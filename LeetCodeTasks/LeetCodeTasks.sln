@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseIn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInteger", "StringToInteger\StringToInteger.csproj", "{4B9E8DA9-6C2A-4DCA-B28C-89648E8F0F3A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{DB68AE76-057E-414A-8389-1CFBF3911C70}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{4B9E8DA9-6C2A-4DCA-B28C-89648E8F0F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B9E8DA9-6C2A-4DCA-B28C-89648E8F0F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B9E8DA9-6C2A-4DCA-B28C-89648E8F0F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB68AE76-057E-414A-8389-1CFBF3911C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB68AE76-057E-414A-8389-1CFBF3911C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB68AE76-057E-414A-8389-1CFBF3911C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB68AE76-057E-414A-8389-1CFBF3911C70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
