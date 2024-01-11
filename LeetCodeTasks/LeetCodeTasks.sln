@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "Long
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{B36E0782-9072-4821-B29C-3B050E2472B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SumClosest", "3SumClosest\3SumClosest.csproj", "{E638A2DC-A821-4893-80D0-34C274173234}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{B36E0782-9072-4821-B29C-3B050E2472B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B36E0782-9072-4821-B29C-3B050E2472B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B36E0782-9072-4821-B29C-3B050E2472B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E638A2DC-A821-4893-80D0-34C274173234}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E638A2DC-A821-4893-80D0-34C274173234}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E638A2DC-A821-4893-80D0-34C274173234}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E638A2DC-A821-4893-80D0-34C274173234}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
