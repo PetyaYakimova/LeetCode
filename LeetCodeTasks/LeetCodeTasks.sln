@@ -3,41 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33414.496
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum", "TwoSum\TwoSum.csproj", "{4488023B-E34E-453D-AC50-AC5647244190}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TwoSum", "TwoSum\TwoSum.csproj", "{4488023B-E34E-453D-AC50-AC5647244190}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{B3B0E0F4-BAEB-444B-8543-D5CE51DA249C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddTwoNumbers", "AddTwoNumbers\AddTwoNumbers.csproj", "{B3B0E0F4-BAEB-444B-8543-D5CE51DA249C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{4A747365-61DA-4C71-805D-6BF2F45235F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestSubstringWithoutRepeatingCharacters", "LongestSubstringWithoutRepeatingCharacters\LongestSubstringWithoutRepeatingCharacters.csproj", "{4A747365-61DA-4C71-805D-6BF2F45235F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{99790162-7459-4FC2-B5C7-5D26B39A86A0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestPalindromicSubstring", "LongestPalindromicSubstring\LongestPalindromicSubstring.csproj", "{99790162-7459-4FC2-B5C7-5D26B39A86A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZigZagConversion", "ZigZagConversion\ZigZagConversion.csproj", "{0283EBA7-81DD-41CB-8E40-22AB9CFB1B62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ZigZagConversion", "ZigZagConversion\ZigZagConversion.csproj", "{0283EBA7-81DD-41CB-8E40-22AB9CFB1B62}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{CA24BF91-A936-42F2-87CA-E92CEEC85FDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReverseInteger", "ReverseInteger\ReverseInteger.csproj", "{CA24BF91-A936-42F2-87CA-E92CEEC85FDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringToInteger", "StringToInteger\StringToInteger.csproj", "{4B9E8DA9-6C2A-4DCA-B28C-89648E8F0F3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringToInteger", "StringToInteger\StringToInteger.csproj", "{4B9E8DA9-6C2A-4DCA-B28C-89648E8F0F3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{DB68AE76-057E-414A-8389-1CFBF3911C70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromeNumber", "PalindromeNumber\PalindromeNumber.csproj", "{DB68AE76-057E-414A-8389-1CFBF3911C70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{D7B683DE-EE43-4CFE-8453-41BB7787B482}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContainerWithMostWater", "ContainerWithMostWater\ContainerWithMostWater.csproj", "{D7B683DE-EE43-4CFE-8453-41BB7787B482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{F785F0D1-D191-4B55-BFDA-6E38E56B1699}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IntegerToRoman", "IntegerToRoman\IntegerToRoman.csproj", "{F785F0D1-D191-4B55-BFDA-6E38E56B1699}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{381D274B-5700-4871-8248-80A6F82A91B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomanToInteger", "RomanToInteger\RomanToInteger.csproj", "{381D274B-5700-4871-8248-80A6F82A91B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{91CB11B3-C1D5-485D-909C-546E9E890F0D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LongestCommonPrefix", "LongestCommonPrefix\LongestCommonPrefix.csproj", "{91CB11B3-C1D5-485D-909C-546E9E890F0D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3Sum", "3Sum\3Sum.csproj", "{B36E0782-9072-4821-B29C-3B050E2472B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3Sum", "3Sum\3Sum.csproj", "{B36E0782-9072-4821-B29C-3B050E2472B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3SumClosest", "3SumClosest\3SumClosest.csproj", "{E638A2DC-A821-4893-80D0-34C274173234}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3SumClosest", "3SumClosest\3SumClosest.csproj", "{E638A2DC-A821-4893-80D0-34C274173234}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LetterCombinationsOfAPhoneNumber", "LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber.csproj", "{EA0AF05E-A33D-439C-A184-119C9A52134E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LetterCombinationsOfAPhoneNumber", "LetterCombinationsOfAPhoneNumber\LetterCombinationsOfAPhoneNumber.csproj", "{EA0AF05E-A33D-439C-A184-119C9A52134E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4Sum", "4Sum\4Sum.csproj", "{68A59319-DFA6-42CA-9341-3E6AA608C6E8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4Sum", "4Sum\4Sum.csproj", "{68A59319-DFA6-42CA-9341-3E6AA608C6E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveNthNodeFromEndOfList", "RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList.csproj", "{B9A88475-7186-4200-81F8-0E70F25D78AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNthNodeFromEndOfList", "RemoveNthNodeFromEndOfList\RemoveNthNodeFromEndOfList.csproj", "{B9A88475-7186-4200-81F8-0E70F25D78AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{23A2E3A0-6672-4EBF-B2A9-AFA605857036}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{23A2E3A0-6672-4EBF-B2A9-AFA605857036}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{C535E170-EEA5-436A-B692-D92A34EE8A34}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -117,6 +119,10 @@ Global
 		{23A2E3A0-6672-4EBF-B2A9-AFA605857036}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23A2E3A0-6672-4EBF-B2A9-AFA605857036}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23A2E3A0-6672-4EBF-B2A9-AFA605857036}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C535E170-EEA5-436A-B692-D92A34EE8A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C535E170-EEA5-436A-B692-D92A34EE8A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C535E170-EEA5-436A-B692-D92A34EE8A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C535E170-EEA5-436A-B692-D92A34EE8A34}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
