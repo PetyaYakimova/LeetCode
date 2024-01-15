@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBeautifulIndicesInTheGi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{81FFD3BB-8A7D-4042-9E11-DEB00A953B9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{D04CBAE1-6177-4006-838C-928D5EE81766}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{81FFD3BB-8A7D-4042-9E11-DEB00A953B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81FFD3BB-8A7D-4042-9E11-DEB00A953B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81FFD3BB-8A7D-4042-9E11-DEB00A953B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D04CBAE1-6177-4006-838C-928D5EE81766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D04CBAE1-6177-4006-838C-928D5EE81766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D04CBAE1-6177-4006-838C-928D5EE81766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D04CBAE1-6177-4006-838C-928D5EE81766}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
