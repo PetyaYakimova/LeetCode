@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheFirstOccur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParentheses", "LongestValidParentheses\LongestValidParentheses.csproj", "{491087F3-E3E0-42CD-8737-49FAF516BD65}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindFirstAndLastPositionOFElementInSortedArray", "FindFirstAndLastPositionOFElementInSortedArray\FindFirstAndLastPositionOFElementInSortedArray.csproj", "{78C75B12-663C-438E-B2DB-8ED587201A5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +167,10 @@ Global
 		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C75B12-663C-438E-B2DB-8ED587201A5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C75B12-663C-438E-B2DB-8ED587201A5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C75B12-663C-438E-B2DB-8ED587201A5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C75B12-663C-438E-B2DB-8ED587201A5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
