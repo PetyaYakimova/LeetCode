@@ -39,19 +39,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveNthNodeFromEndOfList"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValidParentheses", "ValidParentheses\ValidParentheses.csproj", "{23A2E3A0-6672-4EBF-B2A9-AFA605857036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{C535E170-EEA5-436A-B692-D92A34EE8A34}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MergeTwoSortedLists", "MergeTwoSortedLists\MergeTwoSortedLists.csproj", "{C535E170-EEA5-436A-B692-D92A34EE8A34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwapNodesInPairs", "SwapNodesInPairs\SwapNodesInPairs.csproj", "{B4029B00-0AC4-4845-89B9-1D760DC66457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwapNodesInPairs", "SwapNodesInPairs\SwapNodesInPairs.csproj", "{B4029B00-0AC4-4845-89B9-1D760DC66457}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{4FE22B38-0174-4861-9A60-25A0B91D15CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray", "RemoveDuplicatesFromSortedArray\RemoveDuplicatesFromSortedArray.csproj", "{4FE22B38-0174-4861-9A60-25A0B91D15CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountElementsWithMaxximumFrequency", "CountElementsWithMaxximumFrequency\CountElementsWithMaxximumFrequency.csproj", "{8E06BC7C-B4D9-4D9D-AA15-01B05DD73F4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CountElementsWithMaxximumFrequency", "CountElementsWithMaxximumFrequency\CountElementsWithMaxximumFrequency.csproj", "{8E06BC7C-B4D9-4D9D-AA15-01B05DD73F4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindBeautifulIndicesInTheGivenArray", "FindBeautifulIndicesInTheGivenArray\FindBeautifulIndicesInTheGivenArray.csproj", "{290F0990-3653-472B-BDCE-3EA05F9BF35B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindBeautifulIndicesInTheGivenArray", "FindBeautifulIndicesInTheGivenArray\FindBeautifulIndicesInTheGivenArray.csproj", "{290F0990-3653-472B-BDCE-3EA05F9BF35B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{81FFD3BB-8A7D-4042-9E11-DEB00A953B9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveElement", "RemoveElement\RemoveElement.csproj", "{81FFD3BB-8A7D-4042-9E11-DEB00A953B9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{D04CBAE1-6177-4006-838C-928D5EE81766}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindTheIndexOfTheFirstOccurenceInAString", "FindTheIndexOfTheFirstOccurenceInAString\FindTheIndexOfTheFirstOccurenceInAString.csproj", "{D04CBAE1-6177-4006-838C-928D5EE81766}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestValidParentheses", "LongestValidParentheses\LongestValidParentheses.csproj", "{491087F3-E3E0-42CD-8737-49FAF516BD65}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -159,6 +161,10 @@ Global
 		{D04CBAE1-6177-4006-838C-928D5EE81766}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D04CBAE1-6177-4006-838C-928D5EE81766}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D04CBAE1-6177-4006-838C-928D5EE81766}.Release|Any CPU.Build.0 = Release|Any CPU
+		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{491087F3-E3E0-42CD-8737-49FAF516BD65}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
