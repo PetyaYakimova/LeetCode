@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidSudoku", "ValidSudoku\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstMissingPositive", "FirstMissingPositive\FirstMissingPositive.csproj", "{047ADC9F-430C-4141-AA2D-451131188B52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroupAnagrams", "GroupAnagrams\GroupAnagrams.csproj", "{51E625C7-FBD3-4AB9-99D3-C386BD2658AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -189,6 +191,10 @@ Global
 		{047ADC9F-430C-4141-AA2D-451131188B52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{047ADC9F-430C-4141-AA2D-451131188B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{047ADC9F-430C-4141-AA2D-451131188B52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51E625C7-FBD3-4AB9-99D3-C386BD2658AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51E625C7-FBD3-4AB9-99D3-C386BD2658AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51E625C7-FBD3-4AB9-99D3-C386BD2658AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51E625C7-FBD3-4AB9-99D3-C386BD2658AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
