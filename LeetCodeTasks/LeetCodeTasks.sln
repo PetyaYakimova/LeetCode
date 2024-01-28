@@ -83,6 +83,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{6BE8FB20-6C8D-40BD-BCB4-0FC602308AF3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextJustification", "TextJustification\TextJustification.csproj", "{E571ECB2-B5C6-4D8A-954D-40AA0598249D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -249,6 +251,10 @@ Global
 		{6BE8FB20-6C8D-40BD-BCB4-0FC602308AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BE8FB20-6C8D-40BD-BCB4-0FC602308AF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BE8FB20-6C8D-40BD-BCB4-0FC602308AF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E571ECB2-B5C6-4D8A-954D-40AA0598249D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E571ECB2-B5C6-4D8A-954D-40AA0598249D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E571ECB2-B5C6-4D8A-954D-40AA0598249D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E571ECB2-B5C6-4D8A-954D-40AA0598249D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
