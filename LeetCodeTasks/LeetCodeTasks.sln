@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqrtX", "SqrtX\SqrtX.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{CE941568-4650-41FA-BA98-B9300C289E9F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{40D93118-7925-43FD-8AB8-5B32B7A82066}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{CE941568-4650-41FA-BA98-B9300C289E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE941568-4650-41FA-BA98-B9300C289E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE941568-4650-41FA-BA98-B9300C289E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
