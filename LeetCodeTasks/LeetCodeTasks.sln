@@ -91,6 +91,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyPath", "SimplifyPat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{40D93118-7925-43FD-8AB8-5B32B7A82066}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search2DMatrix", "Search2DMatrix\Search2DMatrix.csproj", "{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -273,6 +275,10 @@ Global
 		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40D93118-7925-43FD-8AB8-5B32B7A82066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
