@@ -95,6 +95,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search2DMatrix", "Search2DM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors", "SortColors\SortColors.csproj", "{07B35347-4C96-436D-98F9-6957402AE9B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumWindowSubstring", "MinimumWindowSubstring\MinimumWindowSubstring.csproj", "{B7892463-C88B-4219-8AE0-004B8B653C8A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -285,6 +287,10 @@ Global
 		{07B35347-4C96-436D-98F9-6957402AE9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07B35347-4C96-436D-98F9-6957402AE9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07B35347-4C96-436D-98F9-6957402AE9B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
