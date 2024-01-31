@@ -77,21 +77,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LengthOfLastWord", "LengthO
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SpiralMatrix2", "SpiralMatrix2\SpiralMatrix2.csproj", "{32A1D3B4-82D0-47F1-94BD-EF79876CFAAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateList", "RotateList\RotateList.csproj", "{23A15F78-8224-4119-AF6C-5A47E6E6931B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RotateList", "RotateList\RotateList.csproj", "{23A15F78-8224-4119-AF6C-5A47E6E6931B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlusOne", "PlusOne\PlusOne.csproj", "{E599FD7B-E061-44B3-BF6A-E39AEFFD6E07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PlusOne", "PlusOne\PlusOne.csproj", "{E599FD7B-E061-44B3-BF6A-E39AEFFD6E07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddBinary", "AddBinary\AddBinary.csproj", "{6BE8FB20-6C8D-40BD-BCB4-0FC602308AF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AddBinary", "AddBinary\AddBinary.csproj", "{6BE8FB20-6C8D-40BD-BCB4-0FC602308AF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextJustification", "TextJustification\TextJustification.csproj", "{E571ECB2-B5C6-4D8A-954D-40AA0598249D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TextJustification", "TextJustification\TextJustification.csproj", "{E571ECB2-B5C6-4D8A-954D-40AA0598249D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SqrtX", "SqrtX\SqrtX.csproj", "{74E33C46-E971-4625-A4C7-4D0B09ADCAD5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqrtX", "SqrtX\SqrtX.csproj", "{74E33C46-E971-4625-A4C7-4D0B09ADCAD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{CE941568-4650-41FA-BA98-B9300C289E9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimplifyPath", "SimplifyPath\SimplifyPath.csproj", "{CE941568-4650-41FA-BA98-B9300C289E9F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{40D93118-7925-43FD-8AB8-5B32B7A82066}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMatrixZeroes", "SetMatrixZeroes\SetMatrixZeroes.csproj", "{40D93118-7925-43FD-8AB8-5B32B7A82066}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Search2DMatrix", "Search2DMatrix\Search2DMatrix.csproj", "{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search2DMatrix", "Search2DMatrix\Search2DMatrix.csproj", "{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors", "SortColors\SortColors.csproj", "{07B35347-4C96-436D-98F9-6957402AE9B7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -279,6 +281,10 @@ Global
 		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07B35347-4C96-436D-98F9-6957402AE9B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07B35347-4C96-436D-98F9-6957402AE9B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07B35347-4C96-436D-98F9-6957402AE9B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07B35347-4C96-436D-98F9-6957402AE9B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
