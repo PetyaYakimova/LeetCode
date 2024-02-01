@@ -93,9 +93,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SetMatrixZeroes", "SetMatri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Search2DMatrix", "Search2DMatrix\Search2DMatrix.csproj", "{606D72F2-A7EB-43B6-A46C-88E0FEB83CD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortColors", "SortColors\SortColors.csproj", "{07B35347-4C96-436D-98F9-6957402AE9B7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortColors", "SortColors\SortColors.csproj", "{07B35347-4C96-436D-98F9-6957402AE9B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumWindowSubstring", "MinimumWindowSubstring\MinimumWindowSubstring.csproj", "{B7892463-C88B-4219-8AE0-004B8B653C8A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumWindowSubstring", "MinimumWindowSubstring\MinimumWindowSubstring.csproj", "{B7892463-C88B-4219-8AE0-004B8B653C8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\RemoveDuplicatesFromSortedArray2.csproj", "{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +293,10 @@ Global
 		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7892463-C88B-4219-8AE0-004B8B653C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
