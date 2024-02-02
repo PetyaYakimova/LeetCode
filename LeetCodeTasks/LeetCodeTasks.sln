@@ -97,9 +97,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SortColors", "SortColors\So
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumWindowSubstring", "MinimumWindowSubstring\MinimumWindowSubstring.csproj", "{B7892463-C88B-4219-8AE0-004B8B653C8A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\RemoveDuplicatesFromSortedArray2.csproj", "{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedArray2", "RemoveDuplicatesFromSortedArray2\RemoveDuplicatesFromSortedArray2.csproj", "{E5DE25E8-D40B-466C-A8A2-3D1597265CD9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchInRotatedSortedArray2", "SearchInRotatedSortedArray2\SearchInRotatedSortedArray2.csproj", "{CF869D4D-93B3-423A-BB57-F6653C2C09C0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SearchInRotatedSortedArray2", "SearchInRotatedSortedArray2\SearchInRotatedSortedArray2.csproj", "{CF869D4D-93B3-423A-BB57-F6653C2C09C0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveDuplicatesFromSortedList2", "RemoveDuplicatesFromSortedList2\RemoveDuplicatesFromSortedList2.csproj", "{006CE598-B102-489D-9E0F-9B8B3F33F555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -303,6 +305,10 @@ Global
 		{CF869D4D-93B3-423A-BB57-F6653C2C09C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF869D4D-93B3-423A-BB57-F6653C2C09C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF869D4D-93B3-423A-BB57-F6653C2C09C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{006CE598-B102-489D-9E0F-9B8B3F33F555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006CE598-B102-489D-9E0F-9B8B3F33F555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006CE598-B102-489D-9E0F-9B8B3F33F555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006CE598-B102-489D-9E0F-9B8B3F33F555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
