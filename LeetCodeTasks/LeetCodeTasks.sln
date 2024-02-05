@@ -119,6 +119,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidPalindrome", "ValidPal
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongestConsecutiveSequence", "LongestConsecutiveSequence\LongestConsecutiveSequence.csproj", "{755A4BDC-C8C1-40AB-9A1D-B70D3AFAA7A9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GasStation", "GasStation\GasStation.csproj", "{42B8CC12-8A3B-46F3-9F98-9F438CCB92BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{755A4BDC-C8C1-40AB-9A1D-B70D3AFAA7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{755A4BDC-C8C1-40AB-9A1D-B70D3AFAA7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{755A4BDC-C8C1-40AB-9A1D-B70D3AFAA7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42B8CC12-8A3B-46F3-9F98-9F438CCB92BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B8CC12-8A3B-46F3-9F98-9F438CCB92BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B8CC12-8A3B-46F3-9F98-9F438CCB92BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B8CC12-8A3B-46F3-9F98-9F438CCB92BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
